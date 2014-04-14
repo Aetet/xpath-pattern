@@ -1,0 +1,22 @@
+{
+  "name": "xpath-glob",
+  "version": "0.0.0",
+  "description": "Module for xpath expressions pattern matching",
+  "main": "./lib/xpath-glob.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aetet/xpath-pattern"
+  },
+  "keywords": [
+    "xpath"
+  ],
+  "author": "Aetet",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "~1.18.2",
+    "chai": "~1.9.1"
+  }
+}
