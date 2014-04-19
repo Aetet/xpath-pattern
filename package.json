@@ -1,8 +1,8 @@
 {
-  "name": "xpath-glob",
+  "name": "xpath-pattern",
   "version": "0.0.0",
   "description": "Module for xpath expressions pattern matching",
-  "main": "./lib/xpath-glob.js",
+  "main": "./lib/xpath-pattern.js",
   "scripts": {
     "test": "mocha"
   },
@@ -20,3 +20,4 @@
     "chai": "~1.9.1"
   }
 }
+
